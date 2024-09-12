@@ -1,0 +1,12 @@
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\PruebaData.csproj.AssemblyReference.cache
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\PruebaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\PruebaData.AssemblyInfoInputs.cache
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\PruebaData.AssemblyInfo.cs
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\PruebaData.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\bin\Debug\net8.0\PruebaData.deps.json
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\bin\Debug\net8.0\PruebaData.dll
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\bin\Debug\net8.0\PruebaData.pdb
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\PruebaData.dll
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\refint\PruebaData.dll
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\PruebaData.pdb
+C:\Users\Edgardo\source\repos\Prueba\PruebaData\obj\Debug\net8.0\ref\PruebaData.dll
